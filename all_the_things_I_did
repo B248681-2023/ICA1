@@ -1,0 +1,5 @@
+6528add Final script added.
+127d9cd Generating counts with bedtools, outputing to sample specific files. Copying maser script and encrypting for backup.
+bb2c707 QC passed sequences now aligned with hisat2 then sorted and indexed by samtools.
+03cbb6b Sequences read from fqfiles and qc analysed with fastqc. Early user options added in comments.
+2aaf6e8 ICA1 submission
